@@ -64,3 +64,7 @@ Role: Quality Assurance
 
 ![Cypress](Screenshot-pom.png)
 
+## Screenshot API Automation W Cypress
+
+![Cypress](Screenshot-api.png)
+
