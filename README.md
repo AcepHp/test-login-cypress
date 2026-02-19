@@ -59,3 +59,8 @@ Role: Quality Assurance
 ## Screenshot With Intercept
 
 ![Cypress](screenshoot-intercept.png)
+
+## Screenshot With POM
+
+![Cypress](Screenshot-pom.png)
+
